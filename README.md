@@ -1,2 +1,2 @@
 # Hacker Rank Challenges
-HackerRank Challenges REpository
+HackerRank Challenges Repository
