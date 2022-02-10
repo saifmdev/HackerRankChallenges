@@ -1,2 +1,2 @@
-# HackerRankChallenges
+# Hacker Rank Challenges
 HackerRank Challenges REpository
