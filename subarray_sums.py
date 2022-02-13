@@ -5,8 +5,6 @@ import re
 import sys
 
 
-
-#
 # Complete the 'findSum' function below.
 #
 # The function is expected to return a LONG_INTEGER_ARRAY.
@@ -25,6 +23,4 @@ def findSum(numbers, queries):
 
 
 
-print(findSum([0,3,9,5],[[1,2],[2,3]]))
-print(findSum([0,3,9,5],[[1,2],[2,3]]))
 print(findSum([0,3,9,5],[[1,2],[2,3]]))
